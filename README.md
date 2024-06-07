@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yaswanthika
-- 👀 I’m interested in Bio Mediacal Engineering
+- 👀 I’m interested in Bio Medical Engineering
 - 🌱 I’m currently learning Machine learning for Bio Medical Applications
 - 💞️ I’m looking to collaborate on 
 
